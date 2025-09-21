@@ -1,2 +1,69 @@
-# portafolio
-mi portafolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <header style="text-align:center;
+    background-color:rgb(175, 107, 238)" >
+    <hr style="border:2px solid purple;">
+        <h1>portafolio de matiti</h1>
+        <hr style="border:2px solid purple;">
+    </header>
+
+    <main>
+<h1 id="quiensoy">¿quien soy?</h1>
+<h3>
+    hola, mi nombre es Matias Benavides, tengo 15 años,
+     mi nacionalidad
+    es chilena y mi personalidad es muy serena.
+     soy alguien muy tranquilo pero que siempre piensa
+      y analiza minuciosamente su entorno, especialmente
+       me divierto analizando los pensamientos
+        a base de las acciones y comportamientos
+         para divertirme dentro de este contexto. <br>
+    soy una persona bastante amable y bondadosa con los demas,
+     al punto en que puede afectarme levemente. <br>
+    a pesar de algunos trastornos como la depresion y ansiedad 
+    quiero y debo seguir adelante aun con todas estas limitaciones.
+</h3>
+<hr style="border:2px solid purple;">
+<h1 id="misgustos"> mis gustos</h1>
+<h2 style="color: aliceblue;"> mis gustos se basan en 3 principales cosas</h2>
+<h3>programacion:</h3>
+<p>soy un aprendiz en relacion a la programacion. mis intereses principales son front-end y back-end aparte de un gran gusto por la analitica de datos, siendo algo que me gusta mucho en relacion a mi estilo y perspectiva de vida</p>
+<h3>geologia:</h3>
+<p>mi gusto por la geologia, paleontologia y mineria son muy grandes, me gusta explorar temas y hacer investigaciones sobre los minerales, su formacion, estructuras, como y donde se forman, etc.</p>
+<h3>el amor de mi vida:</h3>
+<p>es alguien muy importante para mi, ha sido un gran pilar para poder seguir adelante y querer lograr mis objetivos junto a ella.</p>
+  <hr style="border:2px solid purple;">
+  
+  <h1 id="proyectosfuturos">proyectos futuros</h1>
+  <h2>se basa en tres principales objetivos:</h2>
+  <h3 style="text-align: center;">analitica de datos</h3>
+  <p>es mi principal gusto para trabajar en casa haciendo
+     lo que disfruto</p>
+  <h3 style="text-align: center;">front-end</h3>
+  <p>es uno de mis gustos secundarios, mas que para trabajar es porque disfruto hacer paginas web.</p>
+
+  <h3 style="text-align: center;">mineria</h3>
+  <p>de mis gustos principales, me gustaria estudiar y trabajar algo en relacion a la mineria, especificamente geologia y planta minera.</p>
+<hr style="border:2px solid purple;">
+  <h1 id="mishabilidades">mis habilidades</h1>
+  <p>debido a tener un trastorno de espectro autista,
+     soy un autista de alto funcionamiento
+     , teniendo potencial para aprender habilidades muy rapido
+      si es algo que disfruto, mi capacidad de analitica y reflexion
+       son algo que destacan mucho sobre mi. <br>
+    tengo mucha inspiracion y ganas para conseguir mis objetivos
+     y seguir adelante, siendo algo que considero muy importante
+      dentro de un contexto como el trabajo y hasta la vida diaria. 
+  </p>
+</main>
+    <footer style="background-color: rgb(186, 116, 252);">
+<hr style="border:2px solid purple;">
+        <p>hecho por matiti 2025</p>
+        <hr style="border:2px solid purple;">
+    </footer>
+    
+</body>
+</html>
